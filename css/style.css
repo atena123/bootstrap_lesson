@@ -1,0 +1,47 @@
+.features {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: 'Saira Condensed', sans-serif;
+    margin-bottom: 40px;
+    
+}
+
+.feature .glyphicon {
+    display: block;
+    margin-bottom: 20px;
+    line-height: 45px;
+}
+
+.feature .btn {
+    background-color: #e4c7d4;
+    border-color: #b79e9e;
+    border-width: thick;
+    border-radius: 8px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #8d358e;
+}
+
+.feature .btn:hover {
+    background-color:#eaa6e9;
+}
+
+.label-success {
+    background-color: #ef3753;
+    border-color: #763186;
+    border-radius: 25px;
+    
+}
+
+h3 {
+    font-size: 24px;
+    font-family: cursive;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 4px dotted #eee;
+}
